@@ -1,0 +1,44 @@
+h1 {
+   text-align: center;
+  }
+
+  h3 {
+   text-align: center;
+  } 
+  
+  .center-block {
+    margin: auto;
+    margin-bottom: 10px;
+  }
+
+.item{
+  border: solid;
+  margin: 25px;
+  height: 210px;
+  float:left;
+  cursor:pointer; 
+} 
+
+#label1 {
+  margin-left: 60px;
+
+}
+
+#makePurchaseButton {
+  margin-left: 100px;
+}
+
+#changeReturnButton {
+  margin-left: 110px;
+}
+
+#message {
+  height: 50px;
+  width: 300px;
+}
+
+#change {
+  width: 290px;
+
+}
+
