@@ -7,4 +7,4 @@ REST Endpoints
 
 "/items" - GET: Returns a list of all items;
 
-"/items/{id}"- POST: Vending an item;
+"/items/{id}"- POST: Vending an item.
